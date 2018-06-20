@@ -1,0 +1,7 @@
+ladderNum = 3
+len = 5
+interval = 2
+allNum = 6
+proNum = 4
+Maxspeed = 5
+sameStr = false

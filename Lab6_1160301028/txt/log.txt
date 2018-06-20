@@ -1,0 +1,424 @@
+六月 20, 2018 10:12:24 下午 crossRiver.LadderGenerator getLadders
+信息: 生成3个节数为10的梯子
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)登上桥1
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)登上桥1
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)登上桥1
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.Monkey <init>
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)登上桥2
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)登上桥2
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)登上桥2
+六月 20, 2018 10:12:24 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)登上桥2
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的2处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的2处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的2处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的2处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的3处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的3处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的3处
+六月 20, 2018 10:12:25 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的3处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子1(L-->R、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的5处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的3处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的3处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的3处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的3处
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)登上桥0
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.Monkey <init>
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)	要过桥
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:26 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)在等待
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的7处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的4处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达梯子0的6处
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:27 下午 crossRiver.strategy2 chooseLadder
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)登上同方向的桥0
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子0(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达梯子2的9处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子4(R-->L、速度:5、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:28 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的5处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子3(L-->R、速度:2、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的6处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:29 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达梯子0的9处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的7处
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:30 下午 crossRiver.strategy2 forword
+信息: 猴子5(R-->L、速度:4、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:31 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的8处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:32 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达梯子1的9处
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:33 下午 crossRiver.strategy2 forword
+信息: 猴子2(L-->R、速度:1、采用策略strategy2)已经到达了
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calFairLog
+信息: 公平性为0.33333334
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
+六月 20, 2018 10:12:34 下午 crossRiver.Monkey calH_Puff
+信息: 6只猴子过河花费9.054秒,平均耗时为1.509吞吐率为0.6626905
